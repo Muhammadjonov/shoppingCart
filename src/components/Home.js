@@ -58,18 +58,18 @@ export default class extends Component {
 
         {
           id: 4,
-          title: "Lag'mon",
-          price: 15000,
-          source: "/img/osh.png",
+          title: "Grill",
+          price: 35000,
+          source: "/img/tabaka.png",
           description:
             "Masalligʻi va tayyorlanish uslubi boʻyicha xilma-xil turlarga boʻlinadi va har bir mamlakatda oʻzgacha tarzda tayyorlanadi. Taom asosini guruch tashkil etadi. Ushbu masalliqdan tashqari yogʻ, goʻsht, sabzi, piyoz va boshqa masalliqlar ishlatiladi.",
         },
 
         {
           id: 5,
-          title: "Lag'mon",
-          price: 15000,
-          source: "/img/osh.png",
+          title: "Baliq",
+          price: 30000,
+          source: "/img/baliq.png",
           description:
             "Masalligʻi va tayyorlanish uslubi boʻyicha xilma-xil turlarga boʻlinadi va har bir mamlakatda oʻzgacha tarzda tayyorlanadi. Taom asosini guruch tashkil etadi. Ushbu masalliqdan tashqari yogʻ, goʻsht, sabzi, piyoz va boshqa masalliqlar ishlatiladi.",
         },

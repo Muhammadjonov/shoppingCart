@@ -13,10 +13,6 @@ export class Card1 extends Component {
         meal.count = meal.count || 0;
         return meal;
       }),
-      basket: {
-        content: [],
-        totalPrice: 0,
-      },
     };
   }
 

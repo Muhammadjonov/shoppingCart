@@ -1,0 +1,29 @@
+.text-p {
+  text-align: justify;
+}
+@import "~antd/dist/antd.dark.css";
+@import "~antd/dist/antd.compact.css";
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+button:hover {
+  color: #ff4747;
+  /* transform: scale(1.1); */
+}
+
+.cart_counter {
+  border-radius: 50%;
+  background-color: #ff4747;
+  font-style: normal;
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  left: 30px;
+  top: -40px;
+  color: white;
+}
